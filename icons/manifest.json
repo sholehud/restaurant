@@ -2,7 +2,7 @@
  "name": "Fuddi App",
  "short_name": "Fuddi",
  "description": "Fuddi for you",
- "start_url": "/restaurant/index.html",
+ "start_url": "https://sholehud.github.io/restaurant/",
  "display": "standalone",
  "background_color": "#ffffff",
  "theme_color": "#ffffff",
